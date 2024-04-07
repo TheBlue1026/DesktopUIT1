@@ -67,7 +67,6 @@ int main()
 
     printfStack(s);
     int value = pop(s);
-//    pop(s);
 
     printfStack(s);
     cout << "\n" <<value;
